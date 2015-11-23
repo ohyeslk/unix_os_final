@@ -1,0 +1,10 @@
+source /home/luke/Desktop/weenix-original/kernel/main/gdt.gdb
+source /home/luke/Desktop/weenix-original/kernel/mm/pagetable.gdb
+source /home/luke/Desktop/weenix-original/kernel/proc/kthread.gdb
+source /home/luke/Desktop/weenix-original/kernel/vm/vmmap.gdb
+source /home/luke/Desktop/weenix-original/kernel/mm/memcheck.py
+source /home/luke/Desktop/weenix-original/kernel/mm/page.py
+source /home/luke/Desktop/weenix-original/kernel/mm/slab.py
+source /home/luke/Desktop/weenix-original/kernel/proc/proc.py
+source /home/luke/Desktop/weenix-original/kernel/util/debug.py
+source /home/luke/Desktop/weenix-original/kernel/util/list.py
